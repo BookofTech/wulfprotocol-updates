@@ -1,8 +1,8 @@
 {
-  "version": 42,
-  "zip": "WulfProtocol-update-42.zip",
-  "sha256": "6a9afeb0ff6582a6e875827c980c45372ccfdc4c22206937b26d4c2e978a8912",
-  "notes": "Medication & sales update\nMedication: type a name (or a nickname) that's on your reference sheet and the Add form fills itself in: dose, how it's taken, schedule, and the dose steps by week. Tick or untick \"Use the sheet's dose steps\" before saving.\nThe reference sheet now reads more ways of writing steps (weeks, months, days, \"first 4 weeks\u2026 then\u2026\", several steps on one line) and shows how the app reads the Dosage text while you edit it. Anything it can't read is flagged so you can fix it once.\nDose steps can now be counted in days as well as weeks (like \"days 1-4: 0.25 mg, days 5-21: 0.5 mg\"). The plan card shows today's dose and when it changes. Existing week-based plans carry over unchanged.\nPrices: the sale is now a bigger \ud83c\udff7 tag. Tap it to see each offer on its own line, copy a promo code, or open the page. Long sale text is trimmed at a word instead of mid-word.",
+  "version": 43,
+  "zip": "WulfProtocol-update-43.zip",
+  "sha256": "4cb245fc80da17f7c4d0de709403b3b2cab5f8fb34b668a06db98e74368eac94",
+  "notes": "Prices: one \ud83c\udf10 button per store instead of \ud83c\udf10 and \ud83d\udd11. Normal stores open straight in your browser; stores that need a sign-in ask whether to open in your browser or sign in for price checks.",
   "release": {
     "codename": "MOONRISE",
     "status": "BETA",
