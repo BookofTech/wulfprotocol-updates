@@ -1,8 +1,8 @@
 {
-  "version": 40,
-  "zip": "WulfProtocol-update-40.zip",
-  "sha256": "b11b496245b3eed86aa07632162daf37d31dbe0555f262e54f20194cb6978830",
-  "notes": "Prices page: the \ud83c\udfaf and \ud83d\udd0d buttons are now one \"\u26a0 Wrong price?\" button. It lists every price on the page, marks a best guess, and still lets you point and click on the page.\nPages that hide a $0.01 / $1.00 stand-in price in their code are now handled: the app reloads the page, waits for the real price to appear and reads that. If it can't tell, it flags the store instead of saving the fake price.",
+  "version": 41,
+  "zip": "WulfProtocol-update-41.zip",
+  "sha256": "3bc9c7bea4336a10c05b6c04a266ce41f947e10a34bbfa51cd47b784841227fb",
+  "notes": "Prices & Orders update\nPrices: new \u2795 Add product. Pick a name from your reference sheet, type the vial size, paste the store links \u2014 every store shows together on one card (e.g. \"BPC-157 \u00b7 5mg\").\nOrder planner: new \u26a1 Quick order. Choose products and a number of vials; the app compares every store and shows the best plans (cheapest, fewest orders, confirmed in stock) with sale notes and shipping.\nNew \ud83d\ude9a Stores & shipping list: flat fee and \"free over $X\" per store, read from store pages where printed; you fill in only the gaps. Shipping is now saved in your data instead of the browser.\nSale notes are tidier: fine print like \"how the sale works\" is dropped and long banners are trimmed.",
   "release": {
     "codename": "MOONRISE",
     "status": "BETA",
