@@ -1,8 +1,8 @@
 {
-  "version": 41,
-  "zip": "WulfProtocol-update-41.zip",
-  "sha256": "3bc9c7bea4336a10c05b6c04a266ce41f947e10a34bbfa51cd47b784841227fb",
-  "notes": "Prices & Orders update\nPrices: new \u2795 Add product. Pick a name from your reference sheet, type the vial size, paste the store links \u2014 every store shows together on one card (e.g. \"BPC-157 \u00b7 5mg\").\nOrder planner: new \u26a1 Quick order. Choose products and a number of vials; the app compares every store and shows the best plans (cheapest, fewest orders, confirmed in stock) with sale notes and shipping.\nNew \ud83d\ude9a Stores & shipping list: flat fee and \"free over $X\" per store, read from store pages where printed; you fill in only the gaps. Shipping is now saved in your data instead of the browser.\nSale notes are tidier: fine print like \"how the sale works\" is dropped and long banners are trimmed.",
+  "version": 42,
+  "zip": "WulfProtocol-update-42.zip",
+  "sha256": "6a9afeb0ff6582a6e875827c980c45372ccfdc4c22206937b26d4c2e978a8912",
+  "notes": "Medication & sales update\nMedication: type a name (or a nickname) that's on your reference sheet and the Add form fills itself in: dose, how it's taken, schedule, and the dose steps by week. Tick or untick \"Use the sheet's dose steps\" before saving.\nThe reference sheet now reads more ways of writing steps (weeks, months, days, \"first 4 weeks\u2026 then\u2026\", several steps on one line) and shows how the app reads the Dosage text while you edit it. Anything it can't read is flagged so you can fix it once.\nDose steps can now be counted in days as well as weeks (like \"days 1-4: 0.25 mg, days 5-21: 0.5 mg\"). The plan card shows today's dose and when it changes. Existing week-based plans carry over unchanged.\nPrices: the sale is now a bigger \ud83c\udff7 tag. Tap it to see each offer on its own line, copy a promo code, or open the page. Long sale text is trimmed at a word instead of mid-word.",
   "release": {
     "codename": "MOONRISE",
     "status": "BETA",
