@@ -1,5 +1,5 @@
 {
-  "version": 34,
-  "sha256": "0128ad6e5432e79d4fbc14a9486cd994116759a31e8dfbdbe489d051d5ec8eb4",
-  "notes": "Version 34 is a test update. Nothing changed except the version number."
+  "version": 35,
+  "sha256": "5757784351f408e47ce9b23941f5c6b78fc291061fee1cf12b93bd58f2b61843",
+  "notes": "Moonrise launch screen, and the app now shows its release name and build number in Settings."
 }
