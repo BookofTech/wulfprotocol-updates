@@ -1,8 +1,8 @@
 {
-  "version": 48,
-  "zip": "WulfProtocol-update-48.zip",
-  "sha256": "d054528d4d48e60c993d8999a08820ca8a3bd8396eb526973b0449db593cce39",
-  "notes": "Sign-in & Bitwarden update\nPrice watch: new \"Sign in to N stores\" button opens ONE window with a tab for every store that needs a sign-in. Sign in on each tab, close the window, and every store is re-checked for you.\nSettings: new \"Add Bitwarden to the sign-in window\" button. Add Bitwarden once from the browser store, sign in to it, and it can fill in store logins in the app's sign-in window. The app never sees your passwords.",
+  "version": 49,
+  "zip": "WulfProtocol-update-49.zip",
+  "sha256": "a6b474106be35e225e268226f381ae0ab0e020cb7bea0a3b06083d6b8c1b86d1",
+  "notes": "Price watch: sizes, sorting & fixes\nPrice watch: stores that sell several sizes on ONE link (10 mg, 50 mg...) now work. In \u26a0 Wrong price? \u2192 pick, press \"Choose a size / option first\", click your size on the page, press \"Done choosing\", then click the price. The app repeats your size click before every check. If the store changes its page and the size can no longer be found, the store shows under needs attention instead of saving the wrong price.\nPrice watch: stores inside each product are listed cheapest first (sold-out and unpriced last).\nPrice watch: fixed \"a window is already open\" showing when no window was open. It could block every sign-in button until the app was restarted.\nPrice watch: bulk add checks several links at a time, so a batch from different stores finishes 3 to 4 times faster.\nPrice watch: a Cloudflare \"are you human?\" page is now named clearly, with the steps to get past it.",
   "release": {
     "codename": "MOONRISE",
     "status": "BETA",
