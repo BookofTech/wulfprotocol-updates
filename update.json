@@ -1,8 +1,8 @@
 {
-  "version": 39,
-  "zip": "WulfProtocol-update-39.zip",
-  "sha256": "354e69c562b817da942ebaf07ceb578722e9466483764daed9d61cc17cf18f19",
-  "notes": "Prices page: new \ud83c\udf10 button opens a store page in the browser you normally use (so your saved logins and password manager work).\nPop-up and banner sales (like '15% off with code SAVE15') are now spotted during checks and shown as a sale note next to the price. You can also type your own sale note in a store's \u2699 settings.\nYour items and store links are now auto-saved to my-price-sites.csv in your data folder after every change (opens in Excel; also works with Bulk add / import). Use \ud83d\udcc1 Saved list on the Prices page.",
+  "version": 40,
+  "zip": "WulfProtocol-update-40.zip",
+  "sha256": "b11b496245b3eed86aa07632162daf37d31dbe0555f262e54f20194cb6978830",
+  "notes": "Prices page: the \ud83c\udfaf and \ud83d\udd0d buttons are now one \"\u26a0 Wrong price?\" button. It lists every price on the page, marks a best guess, and still lets you point and click on the page.\nPages that hide a $0.01 / $1.00 stand-in price in their code are now handled: the app reloads the page, waits for the real price to appear and reads that. If it can't tell, it flags the store instead of saving the fake price.",
   "release": {
     "codename": "MOONRISE",
     "status": "BETA",
