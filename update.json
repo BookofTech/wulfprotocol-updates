@@ -1,8 +1,8 @@
 {
-  "version": 45,
-  "zip": "WulfProtocol-update-45.zip",
-  "sha256": "7139f32e4fc3a1e8756c673e290057269aad1966af1ddb15c49947af9cf26f9b",
-  "notes": "Feedback update\nSettings: new \"Send feedback\" button. Pick Something's broken, Idea or Other, type your note, and it is emailed straight to the developer. Only your note, an optional name and reply email, and the app version are sent.",
+  "version": 46,
+  "zip": "WulfProtocol-update-46.zip",
+  "sha256": "97f88e588b0f32e2c4e22d87a2455fb49d2b26dc383bdceb25955671a2a2d539",
+  "notes": "Medication & feedback fixes\nMedication: the Add form is much shorter. Schedule and \"More options\" (cycle, stock, shelf life, sites, supplies, notes) are each one tidy line you can open. A pen has a new \"Pen click size\" box where you can type how many clicks your dose takes, and a \"Not the right number of clicks?\" button on the medication page fixes it in one step.\nFeedback: if the automatic send fails, the real reason is shown with buttons to email it from your own email app or copy it.",
   "release": {
     "codename": "MOONRISE",
     "status": "BETA",
