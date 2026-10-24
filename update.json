@@ -1,8 +1,8 @@
 {
-  "version": 36,
-  "zip": "WulfProtocol-update-36.zip",
-  "sha256": "923d0a490abb43f363d9217252d367ddbdde11ae736aeb8a61b82114854dc0b6",
-  "notes": "Friendlier version names: updates now say Version 1.0 Beta (Moonrise) instead of a number. Update downloads can no longer get mixed up.",
+  "version": 37,
+  "zip": "WulfProtocol-update-37.zip",
+  "sha256": "6c26f79520f2d1d2c745c9feaad7bc7304acf6af9f9f15381e5ac3c9cb390c9d",
+  "notes": "The launch screen now uses the approved emerald Moonrise design.",
   "release": {
     "codename": "MOONRISE",
     "status": "BETA",
