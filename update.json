@@ -1,5 +1,11 @@
 {
-  "version": 35,
-  "sha256": "5757784351f408e47ce9b23941f5c6b78fc291061fee1cf12b93bd58f2b61843",
-  "notes": "Moonrise launch screen, and the app now shows its release name and build number in Settings."
+  "version": 36,
+  "zip": "WulfProtocol-update-36.zip",
+  "sha256": "923d0a490abb43f363d9217252d367ddbdde11ae736aeb8a61b82114854dc0b6",
+  "notes": "Friendlier version names: updates now say Version 1.0 Beta (Moonrise) instead of a number. Update downloads can no longer get mixed up.",
+  "release": {
+    "codename": "MOONRISE",
+    "status": "BETA",
+    "version": "1.0"
+  }
 }
