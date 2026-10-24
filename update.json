@@ -1,8 +1,8 @@
 {
-  "version": 43,
-  "zip": "WulfProtocol-update-43.zip",
-  "sha256": "4cb245fc80da17f7c4d0de709403b3b2cab5f8fb34b668a06db98e74368eac94",
-  "notes": "Prices: one \ud83c\udf10 button per store instead of \ud83c\udf10 and \ud83d\udd11. Normal stores open straight in your browser; stores that need a sign-in ask whether to open in your browser or sign in for price checks.",
+  "version": 44,
+  "zip": "WulfProtocol-update-44.zip",
+  "sha256": "c8501d647e6c53f46702f8771212a1ee0c2dd2ed22184f5a8043f1539d342160",
+  "notes": "Medication: a much shorter Add form for quick add. The sheet becomes a one-line bar (with the dose-steps checkbox and a Details button), \"What do you have?\" is three buttons (Vial + syringe, Peptide pen with a 3 mL cartridge, Vial loaded into a pen) and the app remembers your pick, and your supplies start ticked from the last medication taken the same way. Cycle, stock, shelf life, rotation sites and notes stay tucked away with their values shown.\nMedication: pens can have their own click size. Under \"What you have\" set \"One click on your pen = ___ mcg\" and the dial amount, plan table and dose cards use it.",
   "release": {
     "codename": "MOONRISE",
     "status": "BETA",
