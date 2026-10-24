@@ -1,8 +1,8 @@
 {
-  "version": 49,
-  "zip": "WulfProtocol-update-49.zip",
-  "sha256": "a6b474106be35e225e268226f381ae0ab0e020cb7bea0a3b06083d6b8c1b86d1",
-  "notes": "Price watch: sizes, sorting & fixes\nPrice watch: stores that sell several sizes on ONE link (10 mg, 50 mg...) now work. In \u26a0 Wrong price? \u2192 pick, press \"Choose a size / option first\", click your size on the page, press \"Done choosing\", then click the price. The app repeats your size click before every check. If the store changes its page and the size can no longer be found, the store shows under needs attention instead of saving the wrong price.\nPrice watch: stores inside each product are listed cheapest first (sold-out and unpriced last).\nPrice watch: fixed \"a window is already open\" showing when no window was open. It could block every sign-in button until the app was restarted.\nPrice watch: bulk add checks several links at a time, so a batch from different stores finishes 3 to 4 times faster.\nPrice watch: a Cloudflare \"are you human?\" page is now named clearly, with the steps to get past it.",
+  "version": 50,
+  "zip": "WulfProtocol-update-50.zip",
+  "sha256": "2dff84287a1e31a8d926d168689796d40909a1cf29190cce2de5602a8027476f",
+  "notes": "Price graph fix\nPrice watch: fixing a wrong price (picking the right price, changing the link, or choosing a size) no longer shows up as a price jump or drop. That store's graph and \"change this week\" now start fresh from the fixed price. The older readings stay saved in the app, just hidden.\nPrice watch: the history window has a \"Start over\" button per store, for clearing the graph of older wrong prices.",
   "release": {
     "codename": "MOONRISE",
     "status": "BETA",
