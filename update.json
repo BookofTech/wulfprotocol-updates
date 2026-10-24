@@ -1,8 +1,8 @@
 {
-  "version": 46,
-  "zip": "WulfProtocol-update-46.zip",
-  "sha256": "97f88e588b0f32e2c4e22d87a2455fb49d2b26dc383bdceb25955671a2a2d539",
-  "notes": "Medication & feedback fixes\nMedication: the Add form is much shorter. Schedule and \"More options\" (cycle, stock, shelf life, sites, supplies, notes) are each one tidy line you can open. A pen has a new \"Pen click size\" box where you can type how many clicks your dose takes, and a \"Not the right number of clicks?\" button on the medication page fixes it in one step.\nFeedback: if the automatic send fails, the real reason is shown with buttons to email it from your own email app or copy it.",
+  "version": 47,
+  "zip": "WulfProtocol-update-47.zip",
+  "sha256": "93df399a8c89c3cb62815ff6a6250f07180ab60afa0596801e57b74f2c6973fc",
+  "notes": "Price watch cleanup\nPrice watch: the extra \"Add item\" bar is gone. Use \u2795 Add product (pick the name, paste the store links) or Bulk add. Long store links now stay whole when pasted, even ones with commas, and the Add product box shows how many links it found.",
   "release": {
     "codename": "MOONRISE",
     "status": "BETA",
