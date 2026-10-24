@@ -1,8 +1,8 @@
 {
   "version": 39,
   "zip": "WulfProtocol-update-39.zip",
-  "sha256": "be057ffdeb84a37846868dec7d51e1a7f1b68da9cdea76dcc28aca25a274fc38",
-  "notes": "Prices page: new \ud83c\udf10 button opens a store page in the browser you normally use (so your saved logins and password manager work).\nPop-up and banner sales (like '15%% off with code SAVE15') are now spotted during checks and shown as a sale note next to the price. You can also type your own sale note in a store's \u2699 settings.\nYour items and store links are now auto-saved to my-price-sites.csv in your data folder after every change (opens in Excel; also works with Bulk add / import). Use \ud83d\udcc1 Saved list on the Prices page.",
+  "sha256": "354e69c562b817da942ebaf07ceb578722e9466483764daed9d61cc17cf18f19",
+  "notes": "Prices page: new \ud83c\udf10 button opens a store page in the browser you normally use (so your saved logins and password manager work).\nPop-up and banner sales (like '15% off with code SAVE15') are now spotted during checks and shown as a sale note next to the price. You can also type your own sale note in a store's \u2699 settings.\nYour items and store links are now auto-saved to my-price-sites.csv in your data folder after every change (opens in Excel; also works with Bulk add / import). Use \ud83d\udcc1 Saved list on the Prices page.",
   "release": {
     "codename": "MOONRISE",
     "status": "BETA",
