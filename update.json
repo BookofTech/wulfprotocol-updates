@@ -1,8 +1,8 @@
 {
-  "version": 37,
-  "zip": "WulfProtocol-update-37.zip",
-  "sha256": "6c26f79520f2d1d2c745c9feaad7bc7304acf6af9f9f15381e5ac3c9cb390c9d",
-  "notes": "The launch screen now uses the approved emerald Moonrise design.",
+  "version": 38,
+  "zip": "WulfProtocol-update-38.zip",
+  "sha256": "b5d1e0a96f441bfb2ddbedecc0a52f3ab63729a51af84636fee0681d170c7489",
+  "notes": "The launch screen now stays for 12 seconds (click or press any key to skip it).",
   "release": {
     "codename": "MOONRISE",
     "status": "BETA",
