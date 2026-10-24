@@ -1,8 +1,8 @@
 {
-  "version": 47,
-  "zip": "WulfProtocol-update-47.zip",
-  "sha256": "93df399a8c89c3cb62815ff6a6250f07180ab60afa0596801e57b74f2c6973fc",
-  "notes": "Price watch cleanup\nPrice watch: the extra \"Add item\" bar is gone. Use \u2795 Add product (pick the name, paste the store links) or Bulk add. Long store links now stay whole when pasted, even ones with commas, and the Add product box shows how many links it found.",
+  "version": 48,
+  "zip": "WulfProtocol-update-48.zip",
+  "sha256": "d054528d4d48e60c993d8999a08820ca8a3bd8396eb526973b0449db593cce39",
+  "notes": "Sign-in & Bitwarden update\nPrice watch: new \"Sign in to N stores\" button opens ONE window with a tab for every store that needs a sign-in. Sign in on each tab, close the window, and every store is re-checked for you.\nSettings: new \"Add Bitwarden to the sign-in window\" button. Add Bitwarden once from the browser store, sign in to it, and it can fill in store logins in the app's sign-in window. The app never sees your passwords.",
   "release": {
     "codename": "MOONRISE",
     "status": "BETA",
