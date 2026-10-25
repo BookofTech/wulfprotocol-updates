@@ -1,8 +1,8 @@
 {
-  "version": 58,
-  "zip": "WulfProtocol-update-58.zip",
-  "sha256": "08480fe4906f631384dc6c1167ca3fd241af1dc50fd39275dd7a98a8b76e50aa",
-  "notes": "Hotfix\nglacier hotfix",
+  "version": 59,
+  "zip": "WulfProtocol-update-59.zip",
+  "sha256": "91c7aee4073b9d8fc2bc157439c3f766e0ba39faaa16173df0d3ff2888a31ad9",
+  "notes": "Hotfix\ncloudflare hot fix",
   "release": {
     "codename": "MOONRISE",
     "status": "BETA",
