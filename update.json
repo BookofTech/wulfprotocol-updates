@@ -1,8 +1,8 @@
 {
-  "version": 52,
-  "zip": "WulfProtocol-update-52.zip",
-  "sha256": "27ee8c9cf26282900a4199f07391352b7df64c5e0636d260b2c63473547ca638",
-  "notes": "Price watch layout\nMoved + Add another store",
+  "version": 53,
+  "zip": "WulfProtocol-update-53.zip",
+  "sha256": "26151ddb682d8311b869cdc070ce51e60bff3259d6f7a216b2533b1ddf7a8f45",
+  "notes": "Size selector\nAdded a dropdown / size selector option to Wrong price?",
   "release": {
     "codename": "MOONRISE",
     "status": "BETA",
