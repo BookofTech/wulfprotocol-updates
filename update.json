@@ -1,8 +1,8 @@
 {
-  "version": 56,
-  "zip": "WulfProtocol-update-56.zip",
-  "sha256": "a4b5455d19cc18332afbce0dda87427425888fbaa25e807fd2d9ece5dd817f13",
-  "notes": "Minor updates\nMinor coding updates :)",
+  "version": 57,
+  "zip": "WulfProtocol-update-57.zip",
+  "sha256": "a0780c454b00883f5c1c07551b060029a534e1bc624fe7419844372f4fa07059",
+  "notes": "Store fix\nflawlesscompounds.com fix",
   "release": {
     "codename": "MOONRISE",
     "status": "BETA",
