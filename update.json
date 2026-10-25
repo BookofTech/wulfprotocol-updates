@@ -1,8 +1,8 @@
 {
-  "version": 53,
-  "zip": "WulfProtocol-update-53.zip",
-  "sha256": "26151ddb682d8311b869cdc070ce51e60bff3259d6f7a216b2533b1ddf7a8f45",
-  "notes": "Size selector\nAdded a dropdown / size selector option to Wrong price?",
+  "version": 54,
+  "zip": "WulfProtocol-update-54.zip",
+  "sha256": "6687f7faa609e7c19fa3ae6e3f68730e1c8e9662763ab50b46c24cf2d41e9ce2",
+  "notes": "Quantity pricing\nOrder planner: Quick order now uses bulk prices",
   "release": {
     "codename": "MOONRISE",
     "status": "BETA",
