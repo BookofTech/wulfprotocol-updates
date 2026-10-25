@@ -1,8 +1,8 @@
 {
-  "version": 51,
-  "zip": "WulfProtocol-update-51.zip",
-  "sha256": "3b837b237c02277fbf6dbc0536f3144622256d5b0635744a2c033f25ea3a442b",
-  "notes": "Reference sheet update\nReference sheet: added Beta Alanine, Dutasteride, Humanin and standard-use ARA-290, updated Finasteride, KPV and Tretinoin, and fixed spelling. Entries you edited yourself are left alone.",
+  "version": 52,
+  "zip": "WulfProtocol-update-52.zip",
+  "sha256": "acd072a78cd4f864d6db6adef81fdfd5914fe213cc9d976fea98e2c6d8a0d9ad",
+  "notes": "Price watch layout\nPrice watch: in List view, \"+ Add another store\" now sits right under the Stores / edit buttons, so you can add a store without opening the row first.",
   "release": {
     "codename": "MOONRISE",
     "status": "BETA",
