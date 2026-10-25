@@ -1,8 +1,8 @@
 {
-  "version": 50,
-  "zip": "WulfProtocol-update-50.zip",
-  "sha256": "2dff84287a1e31a8d926d168689796d40909a1cf29190cce2de5602a8027476f",
-  "notes": "Price graph fix\nPrice watch: fixing a wrong price (picking the right price, changing the link, or choosing a size) no longer shows up as a price jump or drop. That store's graph and \"change this week\" now start fresh from the fixed price. The older readings stay saved in the app, just hidden.\nPrice watch: the history window has a \"Start over\" button per store, for clearing the graph of older wrong prices.",
+  "version": 51,
+  "zip": "WulfProtocol-update-51.zip",
+  "sha256": "3b837b237c02277fbf6dbc0536f3144622256d5b0635744a2c033f25ea3a442b",
+  "notes": "Reference sheet update\nReference sheet: added Beta Alanine, Dutasteride, Humanin and standard-use ARA-290, updated Finasteride, KPV and Tretinoin, and fixed spelling. Entries you edited yourself are left alone.",
   "release": {
     "codename": "MOONRISE",
     "status": "BETA",
