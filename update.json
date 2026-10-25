@@ -1,8 +1,8 @@
 {
-  "version": 54,
-  "zip": "WulfProtocol-update-54.zip",
-  "sha256": "6687f7faa609e7c19fa3ae6e3f68730e1c8e9662763ab50b46c24cf2d41e9ce2",
-  "notes": "Quantity pricing\nOrder planner: Quick order now uses bulk prices",
+  "version": 55,
+  "zip": "WulfProtocol-update-55.zip",
+  "sha256": "f4c14c12a70670a7963acedd423ac7894d282f8fa4966a959e25e1ea846b1170",
+  "notes": "Bulk pricing update\nBulk ordering pricing update for the order planner",
   "release": {
     "codename": "MOONRISE",
     "status": "BETA",
