@@ -1,8 +1,8 @@
 {
-  "version": 62,
-  "zip": "WulfProtocol-update-62.zip",
-  "sha256": "bfe30e54a8b7e76b4db9a64ee029ee295e6746e640b998b9cfa48efcd906e2e1",
-  "notes": "Hotfix\nhotfix",
+  "version": 63,
+  "zip": "WulfProtocol-update-63.zip",
+  "sha256": "e8e7673081058d52a5c75739163af0fef6e9d8d4f55e37eade16c27c5e4680dd",
+  "notes": "Hotfix\nLayout hotfix",
   "release": {
     "codename": "MOONRISE",
     "status": "BETA",
