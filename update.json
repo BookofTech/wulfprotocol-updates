@@ -1,8 +1,8 @@
 {
-  "version": 65,
-  "zip": "WulfProtocol-update-65.zip",
-  "sha256": "667ff979814e32d07e537ac8731b14e265007680847d1532a9826bb189ece8d3",
-  "notes": "Update\nlayout update",
+  "version": 66,
+  "zip": "WulfProtocol-update-66.zip",
+  "sha256": "d376c7e2c99d6d22ba16b199c42480df8c8921e50297571841c8b3ac7880dc4c",
+  "notes": "Update\ncoding fix for cloudflare",
   "release": {
     "codename": "MOONRISE",
     "status": "BETA",
