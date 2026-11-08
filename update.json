@@ -1,8 +1,8 @@
 {
-  "version": 70,
-  "zip": "WulfProtocol-update-70.zip",
-  "sha256": "d3d7c7e5d28e56e64309a5ee16b5f8b89a483c477395a6268a40c1eefa3ef9df",
-  "notes": "Update\nphone beta",
+  "version": 71,
+  "zip": "WulfProtocol-update-71.zip",
+  "sha256": "8d4d521eec6be15213493a95d7b8027171ce3c89653545abc9ca30feaff20c94",
+  "notes": "Update\nhot fix",
   "release": {
     "codename": "MOONRISE",
     "status": "BETA",
