@@ -1,8 +1,8 @@
 {
-  "version": 75,
-  "zip": "WulfProtocol-update-75.zip",
-  "sha256": "b9151260c03bf4fd7d242d660a312779674b0a3d26974a56b94ba571ac3f3400",
-  "notes": "Update\nspeed boost",
+  "version": 76,
+  "zip": "WulfProtocol-update-76.zip",
+  "sha256": "a8d63939f1af4721ae0727f95067f7c5ee7b16071ed71e3f6d368ac6ff3596af",
+  "notes": "Update\nhot fix :)",
   "release": {
     "codename": "MOONRISE",
     "status": "BETA",
