@@ -1,7 +1,7 @@
 {
-  "version": 76,
-  "zip": "WulfProtocol-update-76.zip",
-  "sha256": "a8d63939f1af4721ae0727f95067f7c5ee7b16071ed71e3f6d368ac6ff3596af",
+  "version": 77,
+  "zip": "WulfProtocol-update-77.zip",
+  "sha256": "4cfc546a1de8e8fa17c80703b8ca1a35f55cb77193dd77016f9b90f9f68f8078",
   "notes": "Update\nhot fix :)",
   "release": {
     "codename": "MOONRISE",
